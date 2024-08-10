@@ -11,15 +11,15 @@ Vamos a intentar desarrollar una API de Python que escriba textos en base a pala
 
 No se espera un uso intensivo de la API de GPT o el modelo que elijamos, ya que generaremos unas pocas páginas por semana.
 
+## Estado del Arte
+
+Actualmente, contamos con un prototipo funcional en un cuaderno Jupyter, que incluye una única API de punto final. Esta API recibe una carga útil JSON con la entrada del usuario y devuelve el texto generado por el modelo de IA seleccionado.
+
 ## Tech stack
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-
-- 🎓 Python
-- ⚡️ Flask
-- 🔮 GPT-4
+- 🎓 Python 3.11
+- ⚡️ Flask 3
+- 🔮 Chat GPT
 
 ## 🚀 Configuración del entorno
 
@@ -30,6 +30,14 @@ python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 ```
+
+---
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+
 
 ---
 A more detailed README.md is available in:

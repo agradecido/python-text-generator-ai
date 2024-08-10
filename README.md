@@ -23,19 +23,14 @@ We currently have a functional prototype in a Jupyter notebook, featuring a sing
 
 ## ⏭️ What next
 
-The next step is to add basic security measures such as authentication and rating limits.
+The next step is to add basic security measures such as **JWT authentication** and rate limits.
 
 ## 🛠️ Tech stack
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-
-- 🎓 Python 3.11
-- ⚡️ Flask 3
-- 🔮 Chat GPT
-
+- 🎓 **Python 3.11**
+- ⚡️ **Flask 3**
+- 📓 **Jupyter Notebook** or **Google Colab**
+- 🔮 **OpenAI API** | **ChatGPT**
 
 
 ## 🚀 Setup environment
@@ -52,6 +47,12 @@ pip install -r requirements.txt
 
 Copy .env.example to .env in the root directory and set its values.
 
+---
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
 ---
 
