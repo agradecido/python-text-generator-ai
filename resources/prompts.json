@@ -1,0 +1,5 @@
+{
+    "default": "We are going to create a page about a product to try to sell it on an affiliate market and make a profit. Generate 2 paragraphs (about 1000 words) for this product based on the following keywords, the first one is the product: {keywords}",
+    "marketing": "Write a marketing paragraph highlighting the benefits of this product with this keywords, the first one is the product: {keywords}",
+    "technical": "Provide a detailed technical explanation about this product with this keywords, the first one is the product: {keywords}"
+}
