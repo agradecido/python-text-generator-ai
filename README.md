@@ -33,7 +33,7 @@ pip install Flask-JWT-Extended
 
 ## ⏭️ What next
 
-The next step is to add rate limits to API connections.
+The next step is *add user/password real authentication* to get the **JSON Web Token** and add **rate limits** to API connections.
 
 ## 🛠️ Tech stack
 
