@@ -21,9 +21,19 @@ We currently have a functional prototype in a Jupyter notebook, featuring a sing
 }
 ```
 
+## JWT Authentication
+
+**JWT** is an open standard that allows information to be transmitted securely in JSON format between two parties.
+
+We need the library **Flask JWT Extended**:
+
+```bash
+pip install Flask-JWT-Extended
+```
+
 ## ⏭️ What next
 
-The next step is to add basic security measures such as **JWT authentication** and rate limits.
+The next step is to add rate limits to API connections.
 
 ## 🛠️ Tech stack
 
